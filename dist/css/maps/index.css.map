@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.less"],"names":[],"mappings":"AAEA;EACI,sBAAA;EACA,eAAA","sourcesContent":["@bc:#ccc;\r\n@fs:20px;\r\nbody{\r\n    background-color: @bc!important;\r\n    font-size:@fs!important;\r\n}\r\n"],"file":"../index.css"}
